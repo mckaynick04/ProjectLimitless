@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "discord.js": "^11.4.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "quick.log": "^1.2.1",
     "quick.log-discord": "^1.1.0",
     "superagent": "^4.1.0"
